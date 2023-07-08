@@ -1,4 +1,4 @@
 # Simple-PomoClock
 A lightweight, simple pomodoro timer that supports custom pomodoro sessions. 
 
-![εικόνα](https://github.com/mpitsouli/Simple-PomoClock/assets/131483800/707d0164-f3fe-4cba-87c7-18e4b2e43b9d)
+![ww](https://github.com/mpitsouli/Simple-PomoClock/assets/131483800/825fd8da-8b4f-4c2d-a602-fce4e88c936d)
